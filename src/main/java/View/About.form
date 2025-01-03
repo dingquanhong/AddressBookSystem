@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="View.About">
+  <grid id="27dc6" binding="about" layout-manager="GridLayoutManager" row-count="3" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="10">
+    <margin top="50" left="50" bottom="50" right="50"/>
+    <constraints>
+      <xy x="20" y="20" width="904" height="680"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="9dbfe" class="javax.swing.JTextPane" binding="info">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="800" height="300"/>
+          </grid>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <font size="26"/>
+          <text value="    LinkUp 通讯录是一款专为现代用户设计的高效、智能的通讯录管理工具。它不仅帮助您轻松管理和组织联系人信息，还提供了便捷的分组管理、多功能查询和数据导入导出等功能，确保您可以随时随地访问和更新重要联系。&#10;    该项目为JAVA设计模式项目期末作业，在架构上借鉴了Spring的三层架构设计，融入了单例、备忘录、策略、观察者、外观、责任链共6种模式，使得项目的可拓展性和可维护性得到了极大的提高。"/>
+        </properties>
+      </component>
+      <component id="fec94" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Developed by QUAN"/>
+        </properties>
+      </component>
+      <grid id="1e5e8" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="fb534" class="javax.swing.JLabel" binding="logo">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value=""/>
+            </properties>
+          </component>
+          <component id="e415a" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="48" style="1"/>
+              <text value="LinkUp通讯录"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
