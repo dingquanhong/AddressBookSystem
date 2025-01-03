@@ -8,7 +8,7 @@
 <p align="center">
 <a href="#概述">概述</a> &nbsp;&bull;&nbsp;
 <a href="#系统功能">系统功能</a> &nbsp;&bull;&nbsp;
-<a href="#🗂️架构设计">架构设计</a> &nbsp;&bull;&nbsp;
+<a href="#%EF%B8%8F架构设计">架构设计</a> &nbsp;&bull;&nbsp;
 <a href="#UI设计">UI设计</a> &nbsp;&bull;&nbsp;
 <a href="#运行环境">运行环境</a> 
 </p>
