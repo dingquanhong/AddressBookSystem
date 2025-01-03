@@ -6,11 +6,11 @@
 <p style="color:#ddddd;">丽水学院2024学年第二学期JAVA设计模式期末大作业</p>
 </div>
 <p align="center">
-<a href="#📋概述">概述</a> &nbsp;&bull;&nbsp;
-<a href="#💡系统功能">系统功能</a> &nbsp;&bull;&nbsp;
-<a href="#🗂️架构设计">架构设计</a> &nbsp;&bull;&nbsp;
-<a href="#💻UI设计">UI设计</a> &nbsp;&bull;&nbsp;
-<a href="#📊运行环境">运行环境</a> 
+<a href="#概述">概述</a> &nbsp;&bull;&nbsp;
+<a href="#系统功能">系统功能</a> &nbsp;&bull;&nbsp;
+<a href="#%EF%B8%8F架构设计">架构设计</a> &nbsp;&bull;&nbsp;
+<a href="#UI设计">UI设计</a> &nbsp;&bull;&nbsp;
+<a href="#运行环境">运行环境</a> 
 </p>
 
 
